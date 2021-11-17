@@ -1,15 +1,20 @@
 # PortfolioTecnico2b
 Portfólio para adicionar atividades da área técnica em 2021.
 
+## Fundamentos de Banco de Dados
 https://github.com/elisassuncao/PortfolioTecnico2b/blob/main/Fundamentos%20de%20Banco%20de%20Dados/AlterandoTabelas
 
 https://github.com/elisassuncao/PortfolioTecnico2b/blob/main/Fundamentos%20de%20Banco%20de%20Dados/ChaveEstrangeira
+
+## Fundamentos de T.I
 
 https://github.com/elisassuncao/PortfolioTecnico2b/blob/main/Fundamentos%20de%20T.I/Exerc%C3%ADcioComandoCut.sh
 
 https://github.com/elisassuncao/PortfolioTecnico2b/blob/main/Fundamentos%20de%20T.I/ShellScriptLoops1.sh
 
 https://github.com/elisassuncao/PortfolioTecnico2b/blob/main/Fundamentos%20de%20T.I/ShellScriptLoops2.sh
+
+## Lógica Computacional
 
 https://github.com/elisassuncao/PortfolioTecnico2b/blob/main/L%C3%B3gica%20Computacional/Aula05_11
 
