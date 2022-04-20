@@ -1,0 +1,53 @@
+create table fornecedor(
+	cnpj varchar(18) primary key,
+	nome varchar,
+	roupa varchar,
+	local varchar
+);
+
+CREATE TABLE funcionariO(
+	carttrab varchar(14) primary key,
+	nome varchar,
+	cpf varchar,
+	salario decimal(7,2),
+	turno int,
+	cargo varchar
+);
+
+CREATE TABLE cliente(
+	cpf varchar(14) primary key,
+	nome varchar,
+	endereco varchar,
+	telefone varchar
+);
+
+CREATE TABLE produto(
+	codProd bigint primary key,
+	tamanho varchar,
+	modelo varchar,
+	marca varchar,
+	preco decimal(5,2),
+	codFornecedor varchar(18),
+	foreign key (codFornecedor) references fornecedores(cnpj)
+);
+	
+CREATE TABLE venda(
+	data date,
+	codFuncionario varchar(14) references funcionarios,
+	codProduto bigint references produtos, 
+	codCliente varchar(14) references cliente
+);
+
+select 
+    v.numvend as Nf,
+    s.nome as "Nome do Cliente",
+    f.nome as "Nome do Funcionário",
+    p.nome as "Nome do Produto",
+    p.preco as "Preço do Produto"
+from vendas v
+   left join clientes s
+     on s.codclien = v.codclie
+  left join funcionarios f
+    on f.codfunc = v.codfun
+  left join produtos p
+    on p.codvend = v.codven
