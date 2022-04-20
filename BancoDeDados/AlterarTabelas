@@ -1,0 +1,12 @@
+alter table jogoss 
+rename column nome
+to titulo;
+
+/*mudar o nome de uma coluna*/
+
+
+alter table jogoss
+alter column preço type varchar (5);
+
+/*alterar a quantidade de dígitos no preço dos jogos*/
+
