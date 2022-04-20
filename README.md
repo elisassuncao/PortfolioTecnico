@@ -20,4 +20,5 @@ _Portfólio para adicionar atividades da área técnica._
 **_Programação de Aplicativo_**
 * https://github.com/elisassuncao/PortfolioTecnico/blob/main/Programa%C3%A7%C3%A3o%20de%20Aplicativos/ProjetoJogarDados
 
-
+**_Modelagem de Sistemas_**
+* https://github.com/elisassuncao/PortfolioTecnico/blob/main/Modelagem%20de%20Sistemas/ProjetoAgregacao
