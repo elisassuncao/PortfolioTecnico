@@ -11,7 +11,7 @@ _Portfólio para adicionar atividades da área técnica._
 * https://github.com/elisassuncao/PortfolioTecnico/blob/main/Fundamentos%20de%20T.I/ShellScriptLoops2.sh
 
 **_Lógica Computacional_**
-*
+* https://github.com/elisassuncao/PortfolioTecnico/blob/main/L%C3%B3gica%20Computacional/Aula08_06
 *
 
 **_Programação de Aplicativo_**
