@@ -188,3 +188,5 @@ public class TelaCalculo extends AppCompatActivity {
         }
     }
 }
+
+/*Projeto envolvendo duas matérias, foi muito divertido fazer*/
