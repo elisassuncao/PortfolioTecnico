@@ -42,3 +42,5 @@ public class Roupa{
     
   }
 }
+
+/*Me ajudou bastante no processo de conversão do diagrama para java*/
