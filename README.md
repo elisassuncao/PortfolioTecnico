@@ -1,8 +1,7 @@
 # Portfólio Técnico
 ## Elisa Assunção
-
 ### 06/11/2004
-## Ensino médio integrado com técnico em desenvolvimento de sistemas
+
 
 _Portfólio para adicionar atividades da área técnica._
 
