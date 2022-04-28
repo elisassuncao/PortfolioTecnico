@@ -12,3 +12,5 @@ end; $$
     language PLPGSQL;
 
 select minimo(500,650);
+
+/*Gostei muito de aprender sobre funções*/
