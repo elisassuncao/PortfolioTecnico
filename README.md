@@ -1,7 +1,7 @@
 # Portfólio Técnico
 ## Elisa Assunção
 #### 06/11/2004
-#### @elisassuncao04gmail.com.br 
+#### elisassuncao04gmail.com
 
 
 # _Portfólio para adicionar atividades da área técnica._
