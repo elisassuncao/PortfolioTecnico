@@ -37,3 +37,5 @@ private void botaoCadastraActionPerformed(java.awt.event.ActionEvent evt) {
         }
         JOptionPane.showMessageDialog(null, mensagem);
     }
+
+/*Um cadastro legal e simples*/
