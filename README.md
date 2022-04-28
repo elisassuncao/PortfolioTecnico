@@ -26,7 +26,6 @@
 ## **_Lógica Computacional_**
 * https://github.com/elisassuncao/PortfolioTecnico/blob/main/L%C3%B3gica%20Computacional/Aula08_06
 * https://github.com/elisassuncao/PortfolioTecnico/blob/main/L%C3%B3gica%20Computacional/Aula19_10
-* https://github.com/elisassuncao/PortfolioTecnico/blob/main/L%C3%B3gica%20Computacional/Aula25_05
 
 ## **_Modelagem de Sistemas_**
 * https://github.com/elisassuncao/PortfolioTecnico/blob/main/Modelagem%20de%20Sistemas/ProjetoAgregacao
