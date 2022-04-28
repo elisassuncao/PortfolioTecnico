@@ -44,4 +44,4 @@ from vendas v
   left join produtos p
     on p.codvend = v.codven
 
-
+/*Trabalho em grupo que me ajudou bastante com o conteúdo*/
