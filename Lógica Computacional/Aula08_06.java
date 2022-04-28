@@ -33,3 +33,5 @@ public void manipulaString(){
 }
  
 }
+
+/*Um jogo bem simples que eu gostei de fazer*/
