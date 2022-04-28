@@ -10,3 +10,5 @@ do
 res=$(($t*$i))
 echo "$t * $i = $res"
 done
+
+/*Conteúdo que eu aprendi bem rápido*/
