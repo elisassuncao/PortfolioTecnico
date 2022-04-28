@@ -23,3 +23,4 @@ _Portfólio para adicionar atividades da área técnica._
 
 **_Modelagem de Sistemas_**
 * https://github.com/elisassuncao/PortfolioTecnico/blob/main/Modelagem%20de%20Sistemas/ProjetoAgregacao
+* https://github.com/elisassuncao/PortfolioTecnico/blob/main/Modelagem%20de%20Sistemas/ProjetoPessoaRoupa.java
