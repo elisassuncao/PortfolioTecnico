@@ -32,6 +32,7 @@ public class TelaWeb extends AppCompatActivity {
         wv = findViewById(R.id.web);
         wv.setWebViewClient(new WebViewClient());
         wv.loadUrl(link);
-
     }
 }
+
+/*Fizemos uma pesquisa no wikipédia, de acordo com a palavra digitada*/
