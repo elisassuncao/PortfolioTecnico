@@ -14,4 +14,4 @@ fi
 t=$(($t-1))
 done
 
-/*Conteúdo que eu aprendi bem rápido*/
+#Conteúdo que eu aprendi bem rápido#
