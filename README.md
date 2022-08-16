@@ -16,8 +16,8 @@
 
 
 ## **_Banco de Dados_**
-* https://github.com/elisassuncao/PortfolioTecnico/blob/main/Banco%20de%20Dados/FuncaoMinimo
-* https://github.com/elisassuncao/PortfolioTecnico/blob/main/Banco%20de%20Dados/TrabalhoSuperMercado
+* https://github.com/elisassuncao/PortfolioTecnico/blob/main/Banco%20de%20Dados/FuncaoMinimo.sql
+* https://github.com/elisassuncao/PortfolioTecnico/blob/main/Banco%20de%20Dados/TrabalhoSuperMercado.sql
 
 ## **_Fundamentos de T.I_**
 * https://github.com/elisassuncao/PortfolioTecnico/blob/main/Fundamentos%20de%20T.I/ShellScriptLoops1.sh
@@ -28,7 +28,7 @@
 * https://github.com/elisassuncao/PortfolioTecnico/blob/main/L%C3%B3gica%20Computacional/Aula19_10
 
 ## **_Modelagem de Sistemas_**
-* https://github.com/elisassuncao/PortfolioTecnico/blob/main/Modelagem%20de%20Sistemas/ProjetoAgregacao
+* https://github.com/elisassuncao/PortfolioTecnico/blob/main/Modelagem%20de%20Sistemas/ProjetoAgregacao.java
 * https://github.com/elisassuncao/PortfolioTecnico/blob/main/Modelagem%20de%20Sistemas/ProjetoPessoaRoupa.java
 
 
