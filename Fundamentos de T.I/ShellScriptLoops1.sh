@@ -11,4 +11,4 @@ res=$(($t*$i))
 echo "$t * $i = $res"
 done
 
-//Conteúdo que eu aprendi bem rápido//
+#Conteúdo que eu aprendi bem rápido#
