@@ -5,7 +5,7 @@
 ### Nascimento
 #### 06/11/2004
 ### Email para contato
-#### elisassuncao@gmail.com
+#### elisassuncao04@gmail.com
 ### Qualidades
 #### Organização; Flexibilidade; Ética; Adaptabilidade; Colaboração.
 
