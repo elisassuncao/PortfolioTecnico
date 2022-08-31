@@ -1,13 +1,13 @@
 # Portfólio
 
-### Nome
-#### Elisa Assunção
-### Nascimento
-#### 06/11/2004
-### Email para contato
-#### elisassuncao04@gmail.com
-### Qualidades
-#### Organização; Flexibilidade; Ética; Adaptabilidade; Colaboração.
+#### Nome
+### Elisa Assunção
+####  Nascimento
+### 06/11/2004
+#### Email para contato
+### elisassuncao04@gmail.com
+#### Qualidades
+### Organização; Flexibilidade; Ética; Adaptabilidade; Colaboração.
 
 ### Cursando o ensino médio integrado com desenvolvimento de sistemas.
 
